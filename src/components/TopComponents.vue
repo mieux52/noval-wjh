@@ -4,7 +4,7 @@
     <div class="header">
       <div class="logo">
         <!-- <img src="../assets/img/logo.png" alt="" /> -->
-        <span>八猪小说</span>
+        <span>mieux小说</span>
       </div>
       <div class="right">
         <router-link to="/user" href="" class="home"></router-link>
