@@ -1,0 +1,212 @@
+.top {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 15px;
+    box-sizing: border-box;
+    background: linear-gradient(127deg, #FFFEFB 0, #FFF5E6 100%);
+    height: 175px;
+}
+
+.top .left {
+    color: #313131;
+    font-size: 18px;
+
+
+
+}
+
+.top .left a i {
+    background: url(../img/jingling.png) no-repeat;
+    background-position: -71px -5px;
+    width: 10px;
+    height: 20px;
+    display: inline-block;
+    background-size: 86px;
+    position: relative;
+    top: 2px;
+    margin-right: 12px;
+}
+
+.topimg {
+    padding-top: 15px;
+    display: flex;
+    padding-left: 25px;
+    align-items: center;
+    height: 104px;
+
+}
+
+.topimg .lefttext {
+    width: 150px;
+    height: 53px;
+}
+
+.topimg .rightimg {
+    width: 140px;
+    height: 104px;
+}
+
+.logon_content {
+    background-color: #fff;
+    padding: 0 25px;
+
+    width: 100%;
+    box-sizing: border-box;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    margin-top: -16px;
+}
+
+.logonbox {
+
+    padding-top: 33px;
+}
+
+.logonbox .phone {
+
+
+    height: 50px;
+    border-radius: 25px;
+    background-color: #F5F7F9;
+    width: 100%;
+}
+
+.logonbox .phone input {
+    border: none;
+    box-sizing: border-box;
+    padding: 0 16px;
+    outline: 0;
+
+    height: 50px;
+    font-size: 17px;
+    color: #2E3033;
+    width: 100%;
+}
+
+.logonbox .code {
+
+    height: 50px;
+    border-radius: 25px;
+    background-color: #F5F7F9;
+    margin-top: 16px;
+    margin-bottom: 25px;
+    width: 100%;
+    display: flex;
+}
+
+.logonbox .code .getcode {
+    font-size: 16px;
+    color: #38ABFF;
+    width: 25%;
+    height: 50px;
+    line-height: 50px
+}
+
+.logonbox .code input {
+    border: none;
+    box-sizing: border-box;
+    padding: 0 16px;
+    outline: 0;
+
+    height: 50px;
+    font-size: 17px;
+    color: #2E3033;
+    width: 70%;
+
+}
+
+.logonbox .logonbutton {
+    color: #5C5F66;
+    font-size: 16px;
+    text-align: center;
+    background: #EFF0F2;
+    height: 50px;
+    border-radius: 25px;
+    line-height: 50px;
+
+}
+
+.logonbox .logonbutton2 {
+    background: #FFD338;
+}
+
+.logonbox .agreement {
+    width: 100%;
+    text-align: center;
+    margin-top: 27px;
+}
+
+.logonbox .agreement span {
+    display: block;
+    color: #8A8F99;
+    font-size: 13px;
+
+
+}
+
+.logonbox .agreement span::before {
+    content: "";
+    display: inline-block;
+    background: url(../img/login10.png) no-repeat center center;
+    background-size: 100%;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    margin-right: 4px;
+
+}
+
+.logonbox .agreement .yes::before {
+    background: url(../img/login11.png) no-repeat center center;
+    background-size: 100%;
+
+}
+
+
+
+.logonbox .agreement span a {
+    color: #2E3033;
+    font-size: 13px;
+}
+
+.Otherlogin .line {
+    border-bottom: 1px solid #CCD4E3;
+    position: relative;
+    margin-top: 54px;
+
+}
+
+.Otherlogin .line .linetext {
+    font-size: 13px;
+    color: #8A8F99;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 0;
+    background-color: #fff;
+
+
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 22px;
+    
+}
+.Otherlogin_img{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.Otherlogin_img .img{
+    width: 46px;
+    height: 46px;
+    margin-bottom: 8px;
+  
+}
+.Otherlogin_img span{
+    color: #5C5F66;
+    font-size: 13px;
+    text-align: center;
+  
+}

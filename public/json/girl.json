@@ -1,0 +1,144 @@
+{
+    "girl_firstimg":"./img/gfirst.jpg",
+    
+  
+    "girl_lists1":[
+        {
+            "id": 1,
+            "title": "重生我的黄金时代",
+            "author": "夜悠幽",
+            "img": "./img/n1.jpg",
+            "content": "上山找羊，意外跌落山崖，醒来后发现胎穿到了不知名的朝代。四处观望，发现这个家真是一穷二白，吃不饱，穿不暖，住的还是泥土房，外面下大雨，里面下小雨。上有姐姐，下有妹妹，原本想着靠自己",
+            "type": "· 历史架空",
+        "fontnum": " · 139万字"
+            
+        },
+        {
+            "id": 2,
+            "title": "岭南之夜",
+            "author": "亦青",
+            "img": "./img/n2.jpg",
+            "content": "我吃羊肉，意外跌落山崖，醒来后发现胎穿到了不知名的朝代。四处观望，发现这个家真是一穷二白，吃不饱，穿不暖，住的还是泥土房，外面下大雨，里面下小雨。上有姐姐，下有妹妹，原本想着靠自己",
+            "type": "· 历史架空",
+        "fontnum": " · 139万字"
+        }
+    ],
+    "girl_lists2":[
+        {
+            "id": 1,
+            "title": "冲喜后残疾大佬抱着我...",
+            "author": "夜悠幽",
+            "img": "./img/g2.jpg"
+        },
+        {
+            "id": 2,
+            "title": "七零娇软妻：下乡知青动心了",
+            "author": "亦青",
+            "img": "./img/g1.jpg"
+        },
+        {
+            "id": 3,
+            "title": "娇媚外室：偏执九千岁又疯又宠",
+            "author": "天之佼",
+            "img": "./img/n3.jpg"
+        }
+    ],
+    "girl_lists3":[
+        {
+            "id": 1,
+            "title": "一闪一闪亮晶晶",
+            "author": "夜悠幽",
+            "img": "./img/g2.jpg"
+        },
+        {
+            "id": 2,
+            "title": "岭南之夜",
+            "author": "亦青",
+            "img": "./img/g1.jpg"
+        },
+        {
+            "id": 3,
+            "title": "泯灭太阳系",
+            "author": "天之佼",
+            "img": "./img/g2.jpg"
+        },
+        {
+            "id": 4,
+            "title": "泯灭太阳系",
+            "author": "天之佼",
+            "img": "./img/book1.jpg"
+        }
+    ],
+    "girl_lists4": [
+        [
+             {
+                 "id": 1,
+                 "title": "一不小心喝电竞大神同居了",
+                 "author": "陈严不严",
+                 "img": "./img/g4.jpg"
+             },
+             {
+                 "id": 2,
+                 "title": "重启1986",
+                 "author": "我想睡",
+                 "img": "./img/book1.jpg"
+             }
+         ],
+          [
+             {
+                 "id": 1,
+                 "title": "一不小心喝电竞大神同居了",
+                 "author": "李想想",
+                 "img": "./img/book1.jpg"
+             },
+             {
+                 "id": 2,
+                 "title": "岭南之夜",
+                 "author": "亦青",
+                 "img": "./img/g4.jpg"
+             }
+         ],
+          [
+             {
+                 "id": 1,
+                 "title": "岭南之夜",
+                 "author": "亦青",
+                 "img": "./img/g4.jpg"
+             },
+             {
+                 "id": 2,
+                 "title": "一不小心喝电竞大神同居了",
+                 "author": "李想想",
+                 "img": "./img/book1.jpg"
+             }
+         ],
+          [
+             {
+                 "id": 1,
+                 "title": "重启1986",
+                 "author": "李想想",
+                 "img": "./img/book1.jpg"
+             },
+             {
+                 "id": 2,
+                 "title": "岭南之夜",
+                 "author": "亦青",
+                 "img": "./img/g4.jpg"
+             }
+         ],
+         [
+             {
+                 "id": 1,
+                 "title": "岭南之夜",
+                 "author": "亦青",
+                 "img": "./img/g4.jpg"
+             },
+             {
+                 "id": 2,
+                 "title": "重启1986",
+                 "author": "996",
+                 "img": "./img/book1.jpg"
+             }
+         ]
+     ]
+}

@@ -1,0 +1,388 @@
+body{
+    background-color: #f5f7f9;
+}
+.introduce{
+box-sizing: border-box;
+padding:25px 21px 16px 21px ;
+background-color: #fff;
+}
+
+.top{
+    display: flex;
+ 
+}
+.top .leftimg{
+    width: 93px;
+    height: 125px;
+position: relative;
+
+}
+.top .leftimg img{
+    border-radius: 6px;
+    height: 100%;
+}
+.top .leftimg .only{
+    width: 71px;
+    height: 25px;
+    background: url(../img/incon.png) no-repeat center center;
+    background-size: 100%;
+    position: absolute;
+    top: 2px;
+    left: -7px;
+}
+
+.righttext{
+margin-left: 12.5px;
+
+}
+.righttext h2{
+    font-size: 18px;
+    color: #2E3033;
+    font-weight: 700;
+    margin-top: 6px;
+}
+.righttext>a{
+    font-size: 14px;
+    color: #2E3033;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis;
+   display: inline-block;
+    -webkit-box-orient: vertical;
+    margin-top: 4px;
+}
+.righttext>a::after{
+    display: inline-block;
+content: "";
+background: url(../img/arr.png) no-repeat center center;
+background-size: 100%;
+width: 4px;
+height: 7px;
+
+}
+.righttext .num{
+    color: #8A8F99;
+    font-size: 13px;
+    font-style: normal;
+    margin-top:0px;
+ 
+}
+.righttext .num span{
+    font-style: normal;
+}
+.righttext .num i{
+    font-style: normal;
+}
+.righttext .num em{
+    font-style: normal;
+}
+
+.righttext .popular{
+margin-top: 10.5px;
+display: flex;
+justify-content: space-between;
+width: 227px;
+}
+.righttext .populars{
+    font-size: 13px;
+    color: #8A8F99;
+}
+.righttext .popular .addbook{
+    width: 81px;
+    height: 21px;
+    border: 1px solid #D3D1DD;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 19px;
+}
+.righttext .popular .addbook i{
+    font-style: normal;
+  
+
+  color: #2E3033;
+  font-size: 13px;
+
+
+
+}
+.righttext .popular .addbook i::before{
+    content: "+";
+}
+.bottom{
+    margin-top: 16px;
+    width: 100%;
+    color: #2E3033;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.menu{
+    margin-top: 16px;
+    padding: 0 21px;
+    padding-bottom: 16px;
+    background-color: #fff;
+}
+.menu h2{
+height: 52px;
+width: 100%;
+line-height: 52px;
+
+}
+.menu h2 .biaoti{
+    color: #2E3033;
+    font-size: 18px;
+}
+.menu h2 .newtime{
+    color: #2E3033;
+    font-size: 13px;
+}
+.menu h2 .time{
+    font-size: 13px;
+    color: #2E3033;
+    font-style: normal;
+}
+.menu .menu_list{
+    width: 100%;
+}
+.menu .menu_list a{
+    display: block;
+    font-size: 14px;
+    color: #2E3033;
+    height: 31px;
+    line-height: 31px;
+}
+.menu .more a{
+    display: block;
+  background-color: #F5F7F9;;
+    color: #8A8F99;
+    margin-top: 8px;
+    text-align: center;
+  width: 325px;
+  height: 41px;
+  line-height: 41px;
+  font-size: 14px;
+  border-radius:40px;
+}
+
+.comment{
+display: flex;
+background-color: #fff;
+justify-content: space-between;
+margin-top: 16px;
+padding: 0 21px;
+height: 39px;
+line-height: 39px;
+}
+.comment .comments{
+ 
+}
+.comment .comments .comments_h{
+    font-size: 18px;
+    color: #2E3033;
+}
+.comment .comments .num{
+    font-size: 12px;
+    color: #2E3033;
+}
+.comment>a{
+    display: inline-block;
+    font-size: 13px;
+    color: #2E3033;
+    
+}
+.comment>a::after{
+    display: inline-block;
+    content: "";
+    background: url(../img/arr.png) no-repeat center center;
+background-size: 100%;
+width: 5px;
+height: 8px;
+margin-left:3px ;
+}
+
+
+
+
+.list {
+    width: 100%;
+    padding: 0 21px;
+    box-sizing: border-box;
+    /* margin-bottom: 16px; */
+
+    background: #fff;
+    /* padding-bottom: 10px */
+    margin-top: 16px;
+    padding-bottom: 52px;
+}
+
+
+.list .titles {
+    color: #2E3033;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    font-size: 18px;
+}
+
+.list .list_first {
+    display: flex;
+    margin-bottom: 16px;
+  
+}
+
+.list .list_first .img {
+    width: 69px;
+    height: 92px;
+    margin-right: 8px;
+}
+.list .list_first .img img{
+    border-radius: 4px;
+    height: 100%;
+}
+
+.list_text {
+ width: 73%;
+}
+
+.list_text h2 {
+    font-size: 14px;
+    margin-top: 2px;
+}
+
+.list_text p {
+    margin-top: 4px;
+    margin-bottom: 8px;
+    font-size: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color: #8A8F99;
+    line-height: 19px;
+   
+}
+
+.list_text .text_bottom {
+    font-size: 12px;
+    color: #8A8F99;
+}
+
+.list_second{
+display: flex;
+justify-content: space-between;
+
+
+
+}
+.list_second .list_item{
+    margin-bottom: 16px;
+}
+.list_second .list_item .img{
+    margin-bottom: 16px;
+}
+
+
+.list_second .img{
+    width: 68px;
+    height: 91px;
+}
+
+.list_second .img img{
+
+    border-radius: 6px;
+}
+.list_second .book_title{
+    width: 68px;
+    color: #2E3033;
+    font-size: 14px;
+ margin-top: 6px;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.list_second .author{
+    color: #8A8F99;
+    font-size: 12px;
+
+}
+.list .newbook{
+display: flex;
+width: 100%;
+justify-content: space-between;
+
+}
+.list .newbook .newbook_item{
+    width:50%;
+    display: flex;
+  margin-bottom: 16px;
+}
+.list .newbook .newbook_item .img{
+    width: 50px;
+    height: 66px;
+    margin-right: 8px;
+}
+.list .newbook .newbook_item .img img{
+    height: 100%;
+    border-radius: 4px;
+}
+
+.list .newbook .newbook_text p{
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color: #2E3033;
+    font-size: 14px;
+    margin-bottom: 4px;
+    width: 100px;
+}
+.list .newbook .newbook_text span{
+    font-size: 12px;
+    color: #8A8F99;
+}
+
+.footer{
+    background: #fff;
+    width: 100%;
+   display: flex;
+    padding: 12.5px 21px;
+    box-sizing: border-box;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.footer .app{
+    width: 143px;
+    height: 31px;
+    background: #FFF7D9;
+    border-radius: 31px;
+    text-align: center;
+    padding-top: 6px;
+}
+.footer .app span{
+
+    display: block;
+    line-height: 13px;
+    color: #953A00;
+    font-size: 14px;
+
+}
+.footer .app  .song{
+    font-size: 12px;
+    color: #FF6862;
+}
+.footer .read{
+    width: 177px;
+    height: 28px;
+    padding-top: 9px;
+    background: #FFD338;
+    text-align: center;
+    color: #2E3033;
+    font-size: 16px;
+    border-radius: 28px;
+}

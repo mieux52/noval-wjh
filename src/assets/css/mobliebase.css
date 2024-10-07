@@ -1,0 +1,63 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+ul,ol{
+    /* 清除默认样式 */
+    list-style: none; 
+}
+.container{
+    /* 版心 */
+    max-width:750px;
+    min-width: 375px;
+    /* 居中显示 */
+    margin: 0 auto;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+input{
+    /* 去掉选中边 */
+    outline: none;
+    background:none;
+}
+img{
+    width: 100%;
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-size: 22px;
+    font-weight: normal; 
+}
+h2{
+    font-size: 20px;
+    font-weight: normal; 
+}
+h3{
+    font-size: 18px;
+    font-weight: normal; 
+}
+h4{
+    font-size: 16px;
+    font-weight: normal; 
+}
+h5{
+    font-size: 14px;
+    font-weight: normal; 
+}
+h6{
+    font-size: 12px;
+    font-weight: normal; 
+}
+
+
+/* 单行文本溢出 */
+.text_overflow_row{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

@@ -1,0 +1,125 @@
+
+body{
+    background-color: #f5f7f9;
+    
+}
+
+.topic_label{
+    padding: 8px 0;
+    background-color: #fff;
+
+    /* padding-top: 13px; */
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    margin-bottom: 8px;
+    }
+    .topic_label .label_one{
+    
+    /* height: 31px;
+    line-height: 31px; */
+    position: relative;
+ 
+
+    
+    }
+    .topic_label .label_one>span{
+        font-size: 14px;
+     position: absolute;
+     top: 0;
+     left: 0;
+        margin-left: 20px;
+        line-height: 31px;
+    
+    }
+    .topic_label .label_one .con{
+        color: #953A00;
+    }
+    .topic_label .label_one .label_two{
+       
+        padding-left: 50px;
+        overflow: hidden;
+    }
+    .topic_label .label_one .label_two>span{
+        font-size: 14px;   
+         margin-left: 16px;
+         line-height: 31px;
+    }
+    
+
+    .topic_list{
+        padding: 16px 21px;
+        padding-bottom: 0px;
+        background-color: #fff;
+        
+    }
+    .topic_list .topic_item_book{
+display: flex;
+width: 100%;
+margin-bottom: 16px;
+    }
+    .topic_list .topic_item_book .img{
+        width: 50px;
+        height: 66px;
+    }
+    .topic_list .topic_item_book .img img{
+        height: 100%;
+        border-radius: 6px;
+    }
+    .topic_list .topic_item_book .text{
+        display: flex;
+        justify-content: space-between;
+        width: 85%;
+        padding-left: 8px;
+        box-sizing: border-box;
+    }
+    .topic_list .topic_item_book .text .text_title i{
+      
+        height: 13px;
+        width: 45px;
+      
+        display:block;
+        margin-top: 4px;
+        margin-bottom: 7px;
+    }
+
+    .topic_list .topic_item_book .text .text_title .tags{
+        background: url(../img/grain.jfif) no-repeat center center;
+        background-size: 100%;
+    }
+    .topic_list .topic_item_book .text .text_title .tags2{
+        background: url(../img/goodgrain.jfif) no-repeat center center;
+        background-size: 100%;
+    }
+
+    .topic_list .topic_item_book .text .text_title span{
+        font-size: 15px;
+        padding-top: 6px;
+    }
+    .topic_list .topic_item_book .text .text_title p{
+        font-size: 13px;
+
+        color: #8A8F99;
+    }
+
+    .topic_list .topic_item_book .text .text_num>div{
+        color: #FF6862;
+        font-size: 14px;
+    font-weight: 700;
+    text-align: end;
+padding-top: 1px;
+
+    }
+    .topic_list .topic_item_book .text .text_num span{
+        color: #AA9363;
+        font-size: 13px;
+        text-align: end;
+        display: block;
+        margin-top:8px;
+        margin-bottom: 1px;
+    }
+    .topic_list .topic_item_book .text .text_num p{
+        color: #AA9363;
+        font-size: 13px;
+        text-align: end;
+    }

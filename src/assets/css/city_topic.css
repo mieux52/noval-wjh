@@ -1,0 +1,135 @@
+body{
+    background-color: #f5f7f9; 
+}
+.topic_label{
+padding: 8px 0;
+background-color: #fff;
+box-sizing: border-box;
+/* padding-top: 13px; */
+}
+.topic_label .label_one{
+
+height: 31px;
+line-height: 31px;
+position: relative;
+
+}
+.topic_label .label_one>span{
+    font-size: 14px;
+ position: absolute;
+ top: 0;
+ left: 0;
+    margin-left: 16px;
+}
+.topic_label .label_one .con{
+    color: #953A00;
+}
+.topic_label .label_one .label_two{
+    display: inline-block;
+    padding-left: 50px;
+}
+.topic_label .label_one .label_two>span{
+    font-size: 14px;   
+     margin-left: 16px;
+}
+
+
+
+.topic_label .label_default{
+margin-top: 31px;
+    height: 31px;
+    line-height: 31px;
+    position: relative;
+    
+    }
+    .topic_label .label_default>span{
+        font-size: 14px;
+     position: absolute;
+     top: 0;
+     left: 0;
+        margin-left: 16px;
+    }
+    .topic_label .label_default .con{
+        color: #953A00;
+    }
+    .topic_label .label_default .default_two{
+        display: inline-block;
+        padding-left: 50px;
+    }
+    .topic_label .label_default .default_two>span{
+        font-size: 14px;   
+         margin-left: 16px;
+    }
+
+
+
+
+
+    
+
+    .topic_item{
+
+width: 100%;
+box-sizing: border-box;
+padding: 0 21px;
+padding-top: 16px;
+background-color: #ffff;
+margin-top: 8px;
+    }
+
+    .topic_item_list{
+        display: flex;
+   padding-bottom: 16px;
+    }
+    .topic_item .img{
+
+     
+
+border-radius: 4px;
+overflow: hidden;
+margin-right: 8px;
+    } 
+    .topic_item .img img{
+width: 68px;
+height: 92px;
+    }
+
+    .topic_item .topic_item_text{
+        width: 78%;
+    } 
+    .topic_item .topic_item_text h2{
+        color: #2E3033;
+        font-size: 15px;
+        margin-top: 2px;
+    } 
+    .topic_item .topic_item_text p{
+        color: #8A8F99;
+        font-size: 13px;
+        -webkit-line-clamp: 2;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin-top: 4px;
+        margin-bottom: 8px;
+    } 
+
+    .topic_item .topic_item_text span{
+        color: #8A8F99;
+        font-size: 13px;
+    } 
+    .topic_item .topic_item_text span i{
+        font-style: normal;
+    }
+    .topic_item .topic_item_text span em{
+        font-style: normal;
+    }
+    .topic_item .topic_item_text span em::after{
+        content: "";
+        display: inline-block;
+background: url(../img/grain.jfif) no-repeat center center;
+background-size: 100%;
+height: 12px;
+width: 43px;
+margin-left: 4px;
+    }

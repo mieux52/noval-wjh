@@ -1,0 +1,65 @@
+.menu_num{
+    width: 100%;
+    box-sizing: border-box;
+    padding-left:15px ;
+    display: flex;
+    height: 45px;
+    border-bottom:1px solid #25c4a6 ;
+    line-height: 45px;
+    justify-content: space-between;
+}
+
+.menu_num .num span{
+
+color: #25c4a6;
+font-size: 14px;
+display: inline-block;
+}
+.menu_num .num span::after{
+    margin-left: 6px;
+    display: inline-block;
+    content: "";
+    width: 12px;
+    height:6px;
+    background: url(../img/home.png) no-repeat -188px 0;
+    background-size: 200px auto;
+vertical-align: 3px;
+    
+}
+
+.menu_num .order span{
+margin-right: 15px;
+    color: #25c4a6;
+    font-size: 13px;
+    display: inline-block;
+    }
+
+    .menu_num .order span::after{
+        width: 10px;
+        height: 12px;
+        content: "";
+        display: inline-block;
+margin-left: 5px;
+        background: url("../img/catalog_sort.png") no-repeat;
+        background-size: 20px auto;
+   
+    }
+
+    .menu_content{
+width: 100%;
+box-sizing: border-box;
+
+    }
+    .menu_content li{
+        width: 100%;
+        border-bottom: 1px dashed #e7e7e7;
+    }
+    .menu_content li a{
+        display: block;
+        font-size: 14px;
+        color: #000;
+        height: 52px;
+        line-height: 52px;
+        padding-left: 15px;
+      
+    }

@@ -1,0 +1,86 @@
+.oneLevel{
+    padding: 0 20px;
+    padding-bottom: 60px;
+    padding-right: 0px;
+ 
+    box-sizing: border-box;
+}
+.oneLevel h1{
+    margin-top: 30px;
+    margin-bottom: 21px;
+    font-size: 14px;
+}
+
+.boy{
+overflow: hidden;
+display: flex;
+flex-wrap: wrap;
+
+}
+.boy .box {
+    background: linear-gradient(132deg,#F9FAFE 0,#F0F6FF 100%);
+}
+.box {
+ 
+    width: 123px;
+
+    padding: 14px 14px 11px 18px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 21px;
+    margin-bottom: 14px;
+    border-radius: 0.22222222rem;
+}
+ a {   
+    display: inline-block;
+    /* float: left; */   
+    
+    outline: 0;
+    color: #333;
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(255,255,255,0);
+    -webkit-user-select: none;
+}
+.box h2 {
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 700;
+    margin:3px 0 6px;
+}
+.box span {
+    color: #8A8F99;
+    font-size: 12px;
+    line-height: 14px;
+    display: block;
+}
+
+.boy .box .renqi {
+    background-position: -51px -52px;
+}
+.box i {
+ 
+    background: url(../img/rankSprites.png) no-repeat;
+    background-size: 200px;
+    width: 43px;
+    height: 44px;
+    display: block;
+}
+
+.girl .box {
+    background: linear-gradient(132deg,#FDF7F6 0,#FEF2F2 100%);
+    
+}
+.girl{
+display: flex;
+flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+body{
+    background-color: #fff;
+}

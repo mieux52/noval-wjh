@@ -1,0 +1,303 @@
+
+{
+    "index_lists1": {
+        "id":1,
+        "taduwx":"./img/taduwx.png",
+        "firstimg": "./img/first.jpg",
+        "logoimg": "./img/logo.png",
+        "img": "./img/book2.jpg",
+        "title": "布衣小书生",
+        "content": "上山找羊，意外跌落山崖，醒来后发现胎穿到了不知名的朝代。四处观望，发现这个家真是一穷二白，吃不饱，穿不暖，住的还是泥土房，外面下大雨，里面下小雨。上有姐姐，下有妹妹，原本想着靠自己",
+        "author": "残血凌伤",
+        "type": "· 历史架空",
+        "fontnum": " · 139万字",
+        "girl_firstimg":"./img/gfirst.jpg"
+    },
+    "index_lists2": [
+        {
+            "id": 10,
+            "title": "踏仙阶",
+            "author": "夜悠幽",
+            "img": "./img/tu1.jpg"
+          
+        },
+        {
+            "id": 11,
+            "title": "岭南之夜",
+            "author": "亦青",
+            "img": "./img/tu2.jpg"
+        },
+        {
+            "id": 40,
+            "title": "空降书生",
+            "author": "天之佼",
+            "img": "./img/tu3.jpg"
+        },
+        {
+            "id": 41,
+            "title": "重生之夜",
+            "author": "李想想",
+            "img": "./img/tu4.jpg"
+        }
+    ],
+    "index_listsgood1": [
+        {
+            "id": 14,
+            "title": "重生我的黄金时代",
+            "author": "夜悠幽",
+            "img": "./img/tu5.jpg"
+        },
+        {
+            "id": 15,
+            "title": "重生我的黄金时代",
+            "author": "亦青",
+            "img": "./img/tu6.jpg"
+        },
+        {
+            "id": 16,
+            "title": "重生我的黄金时代",
+            "author": "天之佼",
+            "img": "./img/tu7.jpg"
+        },
+        {
+            "id": 17,
+            "title": "重生我的黄金时代",
+            "author": "夜悠幽",
+            "img": "./img/tu8.jpg"
+        }
+    ],
+    "index_listsgood2": [
+        {
+            "id": 18,
+            "title": "重生我的黄金时代",
+            "author": "李想想",
+            "img": "./img/tu9.jpg"
+        },
+        {
+            "id": 19,
+            "title": "重生我的黄金时代",
+            "author": "夜悠幽",
+            "img": "./img/tu10.jpg"
+        },
+        {
+            "id": 20,
+            "title": "重生我的黄金时代",
+            "author": "亦青",
+            "img": "./img/tu11.jpg"
+        },
+        {
+            "id": 21,
+            "title": "重生我的黄金时代",
+            "author": "李想想",
+            "img": "./img/tu12.jpg"
+        }
+    ],
+    "index_listscomplete1": [
+        {
+            "id": 22,
+            "title": "重启1986",
+            "author": "李想想",
+            "img": "./img/book1.jpg"
+        },
+        {
+            "id": 23,
+            "title": "重生我的黄金时代",
+            "author": "夜悠幽",
+            "img": "./img/book3.jpg"
+        },
+        {
+            "id": 24,
+            "title": "岭南之夜",
+            "author": "亦青",
+            "img": "./img/book4.jpg"
+        },
+        {
+            "id": 25,
+            "title": "重启1986",
+            "author": "李想想",
+            "img": "./img/book5.jpg"
+        }
+    ],
+    "index_listscomplete2": [
+        {
+            "id": 26,
+            "title": "重生我的黄金时代",
+            "author": "夜悠幽",
+            "img": "./img/tu15.jpg"
+        },
+        {
+            "id": 27,
+            "title": "岭南之夜",
+            "author": "亦青",
+            "img": "./img/tu16.jpg"
+        },
+        {
+            "id": 28,
+            "title": "泯灭太阳系",
+            "author": "天之佼",
+            "img": "./img/tu17.jpg"
+        },
+        {
+            "id": 29,
+            "title": "重生我的黄金时代",
+            "author": "夜悠幽",
+            "img": "./img/tu18.jpg"
+        }
+    ],
+    "index_listsnew": [
+       [
+            {
+                "id": 30,
+                "title": "岭南之夜",
+                "author": "亦青",
+                "img": "./img/tu13.jpg"
+            },
+            {
+                "id": 31,
+                "title": "重启1986",
+                "author": "我想睡",
+                "img": "./img/tu14.jpg"
+            }
+        ],
+         [
+            {
+                "id": 32,
+                "title": "重启1986",
+                "author": "李想想",
+                "img": "./img/tu10.jpg"
+            },
+            {
+                "id": 33,
+                "title": "岭南之夜",
+                "author": "亦青",
+                "img": "./img/tu9.jpg"
+            }
+        ],
+         [
+            {
+                "id": 34,
+                "title": "岭南之夜",
+                "author": "亦青",
+                "img": "./img/tu1.jpg"
+            },
+            {
+                "id": 35,
+                "title": "重启1986",
+                "author": "李想想",
+                "img": "./img/tu2.jpg"
+            }
+        ],
+         [
+            {
+                "id": 36,
+                "title": "重启1986",
+                "author": "李想想",
+                "img": "./img/tu3.jpg"
+            },
+            {
+                "id": 37,
+                "title": "岭南之夜",
+                "author": "亦青",
+                "img": "./img/tu4.jpg"
+            }
+        ],
+        [
+            {
+                "id": 38,
+                "title": "岭南之夜",
+                "author": "亦青",
+                "img": "./img/tu5.jpg"
+            },
+            {
+                "id": 39,
+                "title": "重启1986",
+                "author": "996",
+                "img": "./img/tu6.jpg"
+            }
+        ]
+    ],
+    "words": {
+            "w": [
+                {
+                    "text": "乡村医圣",
+                    "cover": "https://easyreadfs.nosdn.127.net/-Dc_7b_Rtn43swnlsO8ZLQ==/8796093024875431552",
+                    "author": "卧龙小霸王",
+                    "d": "父母坠崖身死，妹妹检测有病，重重苦难压垮了林宇的家，他求大伯还钱，却遭遇嘲讽，路遇未婚妻，却发现未婚妻对他不屑一顾，早已外边有人，不过",
+                    "bookType": "0",
+                    "id": "f8e5a81b6add40d587a42adb8280512e_4"
+                },
+                {
+                    "text": "乡村大亨",
+                    "cover": "https://easyreadfs.nosdn.127.net/EfF9-uURLqljYn55TDDITQ==/8796093025071766257",
+                    "author": "笔下沧海",
+                    "d": "手握阴阳气，逍遥田野间，致富小能手，天命犯桃花。活泼可爱邻家小妹，还有年轻貌美女老师…我真的只是想低调回家种个田…不要这样",
+                    "bookType": "0",
+                    "id": "ts_e0dee833d9aa4888bb1461866cda6c9f_4"
+                },
+                {
+                    "text": "乡村修仙",
+                    "cover": "https://easyreadfs.nosdn.127.net/RsVzC2Nd3BOijZjrVsx3Gg==/8796093024872391275",
+                    "author": "柒御",
+                    "d": "一次偶然的机会，体弱多病的毕业大学生叶凡捡到了一枚腐化的石戒。他的开挂人生就此开启……得到仙人的传承长生诀",
+                    "bookType": "0",
+                    "id": "be7a7d77013e48dfb580942bf9dc9605_4"
+                },
+                {
+                    "text": "乡村少年",
+                    "cover": "https://easyreadfs.nosdn.127.net/myuyYJwKZj9_wkK2cpxryw==/8796093024845138977",
+                    "author": "青风明月",
+                    "d": "大学毕业回村的赵西坡几年来无所事成，被村里人嘲笑，却巧合的得到融合了一名异世医师的记忆，并且得到一本《帝皇心经》，从此赵西坡崛起了，吊打村霸",
+                    "bookType": "0",
+                    "id": "ts_97968a51a9cd4fe9a6bf200b64bec5cf_4"
+                },
+                {
+                    "text": "乡村风雨",
+                    "cover": "https://easyreadfs.nosdn.127.net/rgBawhdJXKIo_qGRXSuzHg==/8796093024395499316",
+                    "author": "雨沃",
+                    "d": "常峰与梦兰同是生活的苦行者，因为共同的生活向往，走在一起，经过打工、创业在农村搅起了风雨，开创了一片新天地……",
+                    "bookType": "0",
+                    "id": "7f7f2a3f6b81425ca369f098149d3c08_4"
+                },
+                {
+                    "text": "乡村小霸王",
+                    "cover": "https://easyreadfs.nosdn.127.net/iFuQU26H9AIIT-PF6wcf5Q==/8796093025016461751",
+                    "author": "张秘书",
+                    "d": "一场突如其来的谋杀，一个觉醒的吊坠，从此让他走上彪悍的人生。",
+                    "bookType": "0",
+                    "id": "bd_df348cf787dd4d76aba2ea6e921b24ac_4"
+                },
+                {
+                    "text": "乡村黑龙",
+                    "cover": "https://easyreadfs.nosdn.127.net/UcOA2gkWRJz0nndOX2WTCQ==/8796093025058903837",
+                    "author": "俗人不俗",
+                    "d": "暂无简介",
+                    "bookType": "0",
+                    "id": "ts_add9028f0e894be5a8c53c186a7cde14_4"
+                },
+                {
+                    "text": "乡村小地主",
+                    "cover": "https://easyreadfs.nosdn.127.net/kYxJ9EKaDAetZFUnuwUTKQ==/8796093025122968171",
+                    "author": "一朵菊花",
+                    "d": "李瑟立誓要成为村里的地主，跟随老道士修行多年，一起的还有九个师姐。老道士让他娶了这九个师姐，肥水不流外人田，结果九个师姐都各自发展去了，李瑟",
+                    "bookType": "0",
+                    "id": "ts_dc3b590d5bb7479fbb3ae81a0bd3332f_4"
+                },
+                {
+                    "text": "梦幻乡村",
+                    "cover": "https://easyreadfs.nosdn.127.net/WAYAkeI0xw1JMqMZItAp7A==/8796093024897794068",
+                    "author": "我也是醉了",
+                    "d": "兵王回归，化身农民，却成了女娲传人。 从此良田万顷，美女如云，家财万贯，夜夜春歌。 干天干地干……你不服就来干！",
+                    "bookType": "0",
+                    "id": "bd_5e38b6c880aa465dbcd91551c936e440_4"
+                },
+                {
+                    "text": "Think：乡村",
+                    "cover": "https://easyreadfs.nosdn.127.net/jItxVH6GaTzXtONjUZSUMQ==/8796093024959376099",
+                    "author": "【比利时】皮埃特·斯温伯格,【比利时】简·维林德,杨梓琼",
+                    "d": "乡村风的一大特点便是极具现代质感和充满自然景观的温暖的内饰，这最能体现居室设计的奢华。比利时著名艺术史学家、建筑杂志记者皮埃特·斯温伯格用专",
+                    "bookType": "0",
+                    "id": "d0626c4501ee43a5bc7ffe4062b93558_4"
+                }
+            ]
+    }    
+}

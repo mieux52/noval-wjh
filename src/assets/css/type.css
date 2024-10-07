@@ -1,0 +1,125 @@
+body {
+    background-color: #fff;
+}
+
+
+
+.type_content {
+    box-sizing: border-box;
+    padding: 0 21px;
+    padding-right: 4px;
+    padding-bottom: 25px;
+
+}
+
+.menlist>h2 {
+    margin: 20px 0;
+    font-size: 14px;
+}
+
+.menlist_item {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.menlist_item a {
+    display: block;
+
+    width: 100px;
+    height: 102px;
+    background: linear-gradient(180deg,#F2F8FC 0,#E6EEF3 100%);
+    border-radius: 7px;
+    margin-bottom: 16px;
+    margin-right: 16px;
+
+}
+
+.menlist_item a h2 {
+    font-size: 16px;
+color: #000;
+text-align: center;
+    font-weight: bold;
+ margin-top: 10px;
+}
+.menlist_item a .img{
+    position: relative;
+}
+.menlist_item a .img1 {
+    position: absolute;
+    top: 22px;
+    left: 16px;
+    width: 39px;
+    height: 49px;
+    border-radius: 3px;
+    border: 0.8px solid snow;
+}
+
+.menlist_item a .img2 {
+    position: absolute;
+    z-index: 5;
+    top: 16px;
+    left: 36px;
+    width: 43px;
+    height: 55px;
+    border-radius: 3px;
+    border: 0.8px solid snow;
+}
+
+
+
+
+.girllist>h2 {
+    margin: 20px 0;
+    margin-top: 4px;
+    font-size: 14px;
+}
+
+.girllist_item {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.girllist_item a {
+    display: block;
+
+    width: 100px;
+    height: 102px;
+    background: linear-gradient(132deg,#FDF7F6 0,#FEF2F2 100%);
+    border-radius: 7px;
+    margin-bottom: 16px;
+    margin-right: 16px;
+
+}
+
+.girllist_item a h2 {
+    font-size: 16px;
+color: #000;
+text-align: center;
+    font-weight: bold;
+ margin-top: 10px;
+}
+.girllist_item a .img{
+    position: relative;
+}
+.girllist_item a .img1 {
+    position: absolute;
+    top: 22px;
+    left: 16px;
+    width: 39px;
+    height: 49px;
+    border-radius: 3px;
+    border: 0.8px solid snow;
+}
+
+.girllist_item a .img2 {
+    position: absolute;
+    z-index: 5;
+    top: 16px;
+    left: 36px;
+    width: 43px;
+    height: 55px;
+    border-radius: 3px;
+    border: 0.8px solid snow;
+}
